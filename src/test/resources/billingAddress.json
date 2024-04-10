@@ -1,0 +1,10 @@
+{
+  "firstName": "demo",
+  "lastName": "user",
+  "country": "United States (US)",
+  "state": "New York",
+  "addressLineOne": "New York City",
+  "city": "New York City",
+  "postalCode": "10002",
+  "email": "test1@example.com"
+}
