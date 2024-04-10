@@ -38,9 +38,4 @@ public class CartPage extends BasePage {
         wait.until(ExpectedConditions.elementToBeClickable(checkoutBtn)).click();
         return new CheckoutPage(driver);
     }
-
-    public int countProducts() {
-
-        return Integer.parseInt(driver.findElements(By.cssSelector(".ast-cart-menu-wrap .count")).get(0).getText());
-    }
 }

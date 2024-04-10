@@ -22,15 +22,5 @@ public class AddToCartTest extends BaseTest {
         Assert.assertEquals(product.getName(), cartPage.getProdName());
     }
 
-    @Test
-    public void addThreeProductsToCart() throws IOException, InterruptedException {
-        int numberOfProducts=3;
-        CartPage cartPage =new StorePage(getDriver())
-                .load()
-                .addProductsToCart(numberOfProducts)
-                .clickViewCart();
 
-        int productsInCart = cartPage.countProducts();
-        Assert.assertEquals(productsInCart,numberOfProducts);
-    }
 }

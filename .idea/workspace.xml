@@ -50,7 +50,7 @@
       <recent name="$PROJECT_DIR$/src/test/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.AddToCartTest.addThreeProductsToCart">
+  <component name="RunManager" selected="TestNG.&lt;default&gt;">
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <module name="AskOmDch" />
       <option name="MAIN_CLASS_NAME" value="" />
@@ -228,11 +228,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.&lt;default&gt;" />
         <item itemvalue="TestNG.AddToCartTest.addThreeProductsToCart" />
         <item itemvalue="TestNG.AddToCartTest.addAllProductsToCart" />
         <item itemvalue="TestNG.FirstTestCase.loginAndCheckoutWithDirectBankTransfer" />
         <item itemvalue="TestNG.org.selenium.pom" />
-        <item itemvalue="TestNG.&lt;default&gt;" />
       </list>
     </recent_temporary>
   </component>

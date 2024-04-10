@@ -57,21 +57,6 @@ public class StorePage extends BasePage {
         return this;
     }
 
-    public StorePage addProductsToCart(int number) {
-        driver.findElements(By.className("product-type-simple"))
-                .stream()
-                .limit(number)
-                .forEach(e -> {
-                    e.findElement(By.className("add_to_cart_button")).click();
-                 });
-        return this;
-    }
-
-    public int countProductsOnPage() {
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.className("product-type-simple")));
-        return driver.findElements(By.className("product-type-simple")).size();
-    }
-
     public CartPage clickViewCart() {
         wait.until(ExpectedConditions.elementToBeClickable(viewCartLink)).click();
         return new CartPage(driver);
