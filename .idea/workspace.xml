@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14d2d63d-216d-4697-85a0-cc4158d01d53" name="Changes" comment="" />
+    <list default="true" id="14d2d63d-216d-4697-85a0-cc4158d01d53" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/453d6ad416ecded16c0b63bb31fc6eced0d871b8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/522a7a4e21649af06297e31a9e33f13bb4fd3022" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/54e75f3a2a32da4a50f3d8f51d90d21de446b79e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f1549c5346a8d286938ba2edf73eea5ec4b4026" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e4dc7da6f1cf93e9a87e01fcfef93077eda2ddd7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ff37b8e325d53e6ef9b608c03688f479a9bf7275" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/5/453d6ad416ecded16c0b63bb31fc6eced0d871b8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/2/522a7a4e21649af06297e31a9e33f13bb4fd3022" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/4/54e75f3a2a32da4a50f3d8f51d90d21de446b79e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/f/5f1549c5346a8d286938ba2edf73eea5ec4b4026" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/4/e4dc7da6f1cf93e9a87e01fcfef93077eda2ddd7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/f/ff37b8e325d53e6ef9b608c03688f479a9bf7275" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/resolution.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Drivers/resolution.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +44,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "O1C87SG_thdgit"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/karine2711/askomdch.git",
+    "accountId": "252bfa9c-bbcf-4bb0-9724-a0f6dc08c564"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -34,12 +69,21 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.org.selenium.pom.tests.executor": "Run",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/kgevorgyan/IdeaProjects/AskOmDch",
-    "project.structure.last.edited": "Modules",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/karinegevorgyan/IdeaProjects/Testing homework/askomdch",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -50,7 +94,7 @@
       <recent name="$PROJECT_DIR$/src/test/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.&lt;default&gt;">
+  <component name="RunManager" selected="TestNG.org.selenium.pom.tests">
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <module name="AskOmDch" />
       <option name="MAIN_CLASS_NAME" value="" />
@@ -191,18 +235,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.selenium.pom" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="org.selenium.pom.tests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AskOmDch" />
       <shortenClasspath name="NONE" />
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.selenium.pom.*" />
+          <option name="PATTERN" value="org.selenium.pom.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="org.selenium.pom" />
+      <option name="PACKAGE_NAME" value="org.selenium.pom.tests" />
       <option name="MAIN_CLASS_NAME" value="" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="PACKAGE" />
@@ -220,21 +264,29 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="TestNG.org.selenium.pom.tests" />
       <item itemvalue="TestNG.&lt;default&gt;" />
       <item itemvalue="TestNG.AddToCartTest.addAllProductsToCart" />
       <item itemvalue="TestNG.AddToCartTest.addThreeProductsToCart" />
-      <item itemvalue="TestNG.org.selenium.pom" />
       <item itemvalue="TestNG.FirstTestCase.loginAndCheckoutWithDirectBankTransfer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.org.selenium.pom.tests" />
         <item itemvalue="TestNG.&lt;default&gt;" />
         <item itemvalue="TestNG.AddToCartTest.addThreeProductsToCart" />
         <item itemvalue="TestNG.AddToCartTest.addAllProductsToCart" />
         <item itemvalue="TestNG.FirstTestCase.loginAndCheckoutWithDirectBankTransfer" />
-        <item itemvalue="TestNG.org.selenium.pom" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -244,8 +296,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707322528287</updated>
+      <workItem from="1713788272762" duration="1699000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
